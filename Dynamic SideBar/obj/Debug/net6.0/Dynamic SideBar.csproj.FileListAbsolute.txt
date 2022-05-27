@@ -1,0 +1,26 @@
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\appsettings.Development.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\appsettings.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\Dynamic SideBar.staticwebassets.runtime.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\Dynamic SideBar.exe
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\Dynamic SideBar.deps.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\Dynamic SideBar.runtimeconfig.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\Dynamic SideBar.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\ref\Dynamic SideBar.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\bin\Debug\net6.0\Dynamic SideBar.pdb
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.csproj.AssemblyReference.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.AssemblyInfoInputs.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.AssemblyInfo.cs
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.csproj.CoreCompileInputs.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.MvcApplicationPartsAssemblyInfo.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.RazorAssemblyInfo.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.RazorAssemblyInfo.cs
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\staticwebassets.build.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\staticwebassets.development.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\scopedcss\bundle\Dynamic SideBar.styles.css
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\scopedcss\projectbundle\Dynamic SideBar.bundle.scp.css
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\ref\Dynamic SideBar.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.pdb
+D:\Project-test\DynamicSideBar\Dynamic SideBar\Dynamic SideBar\obj\Debug\net6.0\Dynamic SideBar.genruntimeconfig.cache

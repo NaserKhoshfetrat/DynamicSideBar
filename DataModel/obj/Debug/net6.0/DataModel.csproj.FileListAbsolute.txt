@@ -1,0 +1,12 @@
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\bin\Debug\net6.0\DataModel.deps.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\bin\Debug\net6.0\DataModel.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\bin\Debug\net6.0\ref\DataModel.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\bin\Debug\net6.0\DataModel.pdb
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\DataModel.csproj.AssemblyReference.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\DataModel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfoInputs.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\DataModel.AssemblyInfo.cs
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\DataModel.csproj.CoreCompileInputs.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\DataModel.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\ref\DataModel.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DataModel\obj\Debug\net6.0\DataModel.pdb

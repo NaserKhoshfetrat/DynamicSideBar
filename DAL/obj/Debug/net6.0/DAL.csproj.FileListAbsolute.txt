@@ -1,0 +1,17 @@
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\bin\Debug\net6.0\DAL.deps.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\bin\Debug\net6.0\DAL.runtimeconfig.json
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\bin\Debug\net6.0\DAL.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\bin\Debug\net6.0\ref\DAL.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\bin\Debug\net6.0\DAL.pdb
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.csproj.AssemblyReference.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.AssemblyInfoInputs.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.AssemblyInfo.cs
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.csproj.CoreCompileInputs.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\ref\DAL.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.pdb
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.genruntimeconfig.cache
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\bin\Debug\net6.0\DataModel.dll
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\bin\Debug\net6.0\DataModel.pdb
+D:\Project-test\DynamicSideBar\Dynamic SideBar\DAL\obj\Debug\net6.0\DAL.csproj.CopyComplete

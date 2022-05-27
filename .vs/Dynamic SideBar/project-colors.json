@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "56e93984-2555-4533-8f68-854af0170ce5": {
+      "ProjectGuid": "56e93984-2555-4533-8f68-854af0170ce5",
+      "DisplayName": "DynamicSideBar.WebClient",
+      "ColorIndex": 0
+    },
+    "c97607a0-07c4-4e39-97ef-b110769e9c86": {
+      "ProjectGuid": "c97607a0-07c4-4e39-97ef-b110769e9c86",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "b8860c89-7f68-46f3-a0c5-9280a1a19ec5": {
+      "ProjectGuid": "b8860c89-7f68-46f3-a0c5-9280a1a19ec5",
+      "DisplayName": "DataModel",
+      "ColorIndex": 2
+    },
+    "336a1bbb-9e85-476d-8c2e-4acb1c152154": {
+      "ProjectGuid": "336a1bbb-9e85-476d-8c2e-4acb1c152154",
+      "DisplayName": "DynamicSideBar.MvcWebClient",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
